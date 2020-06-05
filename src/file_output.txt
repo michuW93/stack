@@ -1,0 +1,7 @@
+Stack if full 
+Empty stack
+Empty stack
+top element: 3
+Elements in arrayStack: 5
+Elements in arrayStack: 4
+Elements in arrayStack: 4
