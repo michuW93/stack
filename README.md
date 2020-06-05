@@ -5,7 +5,7 @@ Input is in input_file.txt, output in output_file.txt
 
 there are one object of array stack and two objects of arraylist stack.
 
-Example:
+Example input:
 PU OB1 2 //push do array-stack
 PU OB1 4
 PU OB1 3
