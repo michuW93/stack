@@ -4,7 +4,7 @@ Stack implementation on array and arraylist
 Input is in input_file.txt, output in output_file.txt
 
 there are one object of array stack and two objects of arraylist stack.
-
+```
 Example input:
 PU OB1 2 //push do array-stack
 PU OB1 4
@@ -21,3 +21,4 @@ PU OB3 3
 PU OB3 7
 PO OB3 //pop from second arraylist stack
 TO OB3
+```
